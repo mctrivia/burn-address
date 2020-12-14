@@ -1,0 +1,23 @@
+{
+  "name": "burn-address",
+  "version": "1.0.0",
+  "description": "Creates burn address for coin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Cornelisse",
+  "license": "MIT",
+  "dependencies": {
+    "base58check": "^2.0.0",
+    "bs58": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mctrivia/burn-address"
+  }
+}
